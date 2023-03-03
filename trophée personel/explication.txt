@@ -1,0 +1,1 @@
+Le fichier .ipynb qui se trouve dans ce dossier permettra de mettre en évidence les titres des deux joueurs

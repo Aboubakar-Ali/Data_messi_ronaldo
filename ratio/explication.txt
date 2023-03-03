@@ -1,0 +1,1 @@
+Les fichiers .ipynb qui se trouvent dans ce dossier permettrons à mettre en évidence les ratios de but marqués par les deux joueurs par match et par saisons 

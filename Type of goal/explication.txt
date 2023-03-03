@@ -1,0 +1,1 @@
+Les fichiers .ipynb qui se trouvent dans ce dossier permettrons à mettre en évidence la polyvalence des deux joueurs en terme de but(pied droit, tete, pied gauche.....), et en terme de club(changement)
